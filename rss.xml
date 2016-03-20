@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A small and modest press lab in the heart of Seoul.]]></title>
+        <description><![CDATA[A small and modest press lab in the heart of Seoul.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 14:13:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f48f98e-af83-433d-9aa8-e019a1422337.jpg">]]></description>
+            <link>undefineda077c82c-01d8-4a36-bf5c-60140b98ff3a/index.html</link>
+            <guid isPermaLink="false">a077c82c-01d8-4a36-bf5c-60140b98ff3a</guid>
+            <pubDate>Sun, 20 Mar 2016 14:12:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
