@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[makemonday]]></title>
-        <description><![CDATA[makemonday]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A small and modest press lab in the heart of Seoul.]]></title>
+        <description><![CDATA[A small and modest press lab in the heart of Seoul.]]></description>
+        <link>https://thegrid.ai/makemonday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 12:09:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 12:17:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/makemonday/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined8887dab4-9cbb-4810-b19e-858a8cfa77f4/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94636d33-8a24-40ed-9d43-450317bd34b1.jpg">]]></description>
+            <link>https://thegrid.ai/makemonday/9b9ad050-9ec5-4c9b-9cda-eccefd68c053/index.html</link>
+            <guid isPermaLink="false">9b9ad050-9ec5-4c9b-9cda-eccefd68c053</guid>
+            <pubDate>Sun, 20 Mar 2016 12:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello, everyone!</p>]]></description>
+            <link>https://thegrid.ai/makemonday/8887dab4-9cbb-4810-b19e-858a8cfa77f4/index.html</link>
             <guid isPermaLink="false">8887dab4-9cbb-4810-b19e-858a8cfa77f4</guid>
             <pubDate>Sun, 20 Mar 2016 12:09:43 GMT</pubDate>
         </item>
