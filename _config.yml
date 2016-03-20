@@ -2,6 +2,7 @@ name: makemonday
 favicon: null
 layout_spectrum: 0.11463
 typography_spectrum: 0.47898
+title: A small and modest press lab in the heart of Seoul.
 cta:
   domain: null
   bucket: null
