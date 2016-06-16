@@ -22,7 +22,7 @@ color:
     - '#71848c'
     - '#4a5457'
     - '#c2988f'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.1666667
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: makemonday
 favicon: null
+name: makemonday
 opengraph:
   image: null
   type: null
