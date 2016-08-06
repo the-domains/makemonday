@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.421147
+  saturation: 0.05734767
   brandStrength: 0.2096774
-  lightness: 0.5625
+  lightness: 0.7473118
   brandColors:
     - '#11323d'
     - '#fefefc'
     - '#71848c'
     - '#4a5457'
     - '#c2988f'
-  rhythmicContrast: 0.3566308
+  rhythmicContrast: 0.05017921
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: makemonday
+favicon: null
 opengraph:
   image: null
   type: null
